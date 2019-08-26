@@ -1,0 +1,21 @@
+git init - iniciar un repositorio en git
+git status - cuales son los cambios q existen
+git add <file> - agregar archivo a git
+git add . - agregar archivos a git
+git add --all - agregar archivos a git
+git commit -m - agregar commit con un mensaje de lo q se hizo
+
+git remote -v - /*
+origin  git@github.com:broken1451/udemyGit.git (es como pull lo que hace es bajar cambios sin hacer merge con nuestros cambios locales, el merge es para combinar)
+origin  git@github.com:broken1451/udemyGit.git (para publicar los cambios)
+
+origin  git@github.com:broken1451/udemyGit.git (fetch)
+origin  git@github.com:broken1451/udemyGit.git (push)
+
+*/
+
+
+
+
+
+
