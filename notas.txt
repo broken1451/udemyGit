@@ -14,6 +14,7 @@ origin  git@github.com:broken1451/udemyGit.git (fetch)
 origin  git@github.com:broken1451/udemyGit.git (push)
 */
 
+ git push -u origin master - subir al repositorio
 
 
 
