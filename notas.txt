@@ -17,6 +17,7 @@ origin  git@github.com:broken1451/udemyGit.git (push)
  git push -u origin master - subir al repositorio 
  git push -u origin develop - subir a la rama develop
 
-
+git checkout master - moverse entre ramas
+git checkout develop - moverse entre ramas
 
 
