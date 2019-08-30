@@ -20,4 +20,5 @@ origin  git@github.com:broken1451/udemyGit.git (push)
 git checkout master - moverse entre ramas
 git checkout develop - moverse entre ramas
 
+git clone https://github.com/broken1451/udemyGit.git
 
