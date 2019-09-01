@@ -23,3 +23,4 @@ git checkout develop - moverse entre ramas
 git clone https://github.com/broken1451/udemyGit.git
 
 .gitignore para ignorar archivos 
+stash para guardarlos en el stash de git como un baul 
