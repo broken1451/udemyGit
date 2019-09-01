@@ -24,3 +24,5 @@ git clone https://github.com/broken1451/udemyGit.git
 
 .gitignore para ignorar archivos 
 stash para guardarlos en el stash de git como un baul 
+
+tag - v1(main version, verison mas fuerte de un programa, funcionalidades de todo el programa, que cambia el programa).0(minion version, cambios q son relevantes pero no son disrectivos, son cambios minimos pero no cambia su funcionalidad).0(version parches para bugs)
