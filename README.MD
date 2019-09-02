@@ -4,4 +4,24 @@
 #### Cabecera h4
 ##### Cabecera h5
 ###### Cabecera h6
-soy un readme.
+
+Underline 1
+------------
+
+Underline 2
+=======
+
+- letea *italica* de primera forma.
+
+- letea _italica_ de segunda forma.
+
+- letea **bold** de primera forma.
+
+- letea __bold__ de segunda forma.
+
+- letea de ~~tachada~~ forma.
+
+- aqui podemos usar *italica*, **bold** y ~~tachado~~
+
+
+
